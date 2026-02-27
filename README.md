@@ -1,9 +1,10 @@
-# devops nginx demofkjdfkljdfjgk:wiq
-
-ggjhk,k,j,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+# devops nginx demo
 
 
-added content:wq
 
 
 HI ADDDING FROM REMOTE
+
+
+
+instaliing nginx and enabling at boot time
