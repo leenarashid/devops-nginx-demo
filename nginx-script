@@ -10,7 +10,6 @@ sudo systemctl enable nginx
 
 echo "THE NGINX HAS BEEN INSTALLED"
 
-
-
+echo "likewise you can install other scripts too"
 
 
